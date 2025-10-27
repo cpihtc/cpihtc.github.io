@@ -5,7 +5,7 @@ comments: false
 categories: Events
 image: /post_images/Career Summit by Programming Hero-2025/programming-hero-X-CPIHTC.png
 location: Cumilla Polytechnic Institute, Bangladesh
-author: Al Kayes Rifat
+author: CPIHTC
 ---
 
 কুমিল্লা পলিটেকনিক ইন্সটিটিউট হাই টেক ক্লাব কর্তৃক আয়োজিত—"Career Summit 2025 X Let's Code_ Your Career Through Programming" সেমিনারটি সম্পন্ন হয়। যে সেশনে সিসিএন পলিটেকনিক ইন্সটিটিউট, কুমিল্লা ভিক্টোরিয়া কলেজ, কুমিল্লা বিশ্ববিদ্যালয়সহ ৪৫০+ শিক্ষার্থী উপস্থিত হয়।
@@ -43,5 +43,6 @@ author: Al Kayes Rifat
 ![Event Photo 6](https://i.postimg.cc/QCRqq2VW/Career-Summit-by-Programming-Hero-at-Cumilla-Polytechnic-Institute-4.jpg)
 ![Event Photo 7](https://i.postimg.cc/rsv99BzC/Career-Summit-by-Programming-Hero-at-Cumilla-Polytechnic-Institute-9.jpg)
 ![Event Photo 8](https://i.postimg.cc/T1Zcczhb/Career-Summit-by-Programming-Hero-at-Cumilla-Polytechnic-Institute-5.jpg)
+
 
 
