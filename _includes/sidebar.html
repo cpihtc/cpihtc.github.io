@@ -12,6 +12,7 @@
 
     <nav class="sidebar-nav">
       <a class="sidebar-nav-item{% if page.url == '/' %} active{% endif %}" href="{{ '/' }}">Home</a>
+      <a class="sidebar-nav-item" href="https://cpihtc.vercel.app" target="_blank" rel="noopener">Website</a>
 
       {% comment %}
         The code below dynamically generates a sidebar nav of pages with
@@ -28,8 +29,12 @@
       {% endfor %}
       
 
-      <span class="sidebar-nav-item social-links">
+
+<span class="sidebar-nav-item social-links">
         <a href="https://github.com/CPIHTC" target="_blank"  style="border-bottom: none;"><i class="fab fa-github-square"></i></a>     
+        &nbsp;
+
+        <a href="https://www.facebook.com/cpihtc" target="_blank" style="border-bottom: none;"><i class="fab fa-facebook-square"></i></a>
         &nbsp;
 
         <a href="https://www.linkedin.com/company/cpihtc" target="_blank"  style="border-bottom: none;"><i class="fab fa-linkedin"></i></a>     
@@ -40,6 +45,7 @@
 
         <a href="/feed.xml"><i class="fa fa-rss"></i></a>
       </span>
+
 
     </nav>
 
