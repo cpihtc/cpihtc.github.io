@@ -3,6 +3,7 @@ layout: post
 title: Career Summit 2025 by Programming Hero 
 comments: false
 categories: Events
+image: /post_images/Career Summit by Programming Hero-2025/programming-hero-X-CPIHTC.png
 location: Cumilla Polytechnic Institute, Bangladesh
 author: Al Kayes Rifat
 ---
