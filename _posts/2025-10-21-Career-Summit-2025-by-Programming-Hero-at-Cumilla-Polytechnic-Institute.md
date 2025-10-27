@@ -3,7 +3,7 @@ layout: post
 title: Career Summit 2025 by Programming Hero 
 comments: false
 categories: Events
-image: /post_images/Career Summit by Programming Hero-2025/programming-hero-X-CPIHTC.png
+image: https://i.postimg.cc/L5rVVchY/Career-Summit-by-Programming-Hero-at-Cumilla-Polytechnic-Institute-2.jpg
 location: Cumilla Polytechnic Institute, Bangladesh
 author: CPIHTC
 ---
@@ -31,12 +31,11 @@ author: CPIHTC
 এর পাশাপাশি কুমিল্লা পলিটেকনিক ইন্সটিটিউট হাই টেক ক্লাবের কমিটি থেকে শুরু করে কয়েকজন সদস্যবৃন্দ এবং তরুণ সেচ্ছাসেবকগণ সম্পূর্ণ অনুষ্টানটিকে ব্যবস্থাপনা, সাজসজ্জা এবং উপস্থাপনা থেকে শুরু করে সফলতার সাথে উপসংহার পর্যন্ত নিয়ে যান। ম্যানেজমেন্ট অথোরিটিকে প্রবাসীসহ কুপই প্রাক্তন শিক্ষার্থীরা শুভকামনা ও ধন্যবাদ জানিয়েছে।
 
 
-![Career Summit 2025](/post_images/Career Summit by Programming Hero-2025/2025-October-21--Career-Summit-by-Programming-Hero-at-Cumilla-Polytechnic-Institute.jpg)
 
 
 
-![Event Photo 1](https://i.postimg.cc/yxwTTMWc/Career-Summit-by-Programming-Hero-at-Cumilla-Polytechnic-Institute-6.jpg)
 ![Event Photo 2](https://i.postimg.cc/L5rVVchY/Career-Summit-by-Programming-Hero-at-Cumilla-Polytechnic-Institute-2.jpg)
+![Event Photo 1](https://i.postimg.cc/yxwTTMWc/Career-Summit-by-Programming-Hero-at-Cumilla-Polytechnic-Institute-6.jpg)
 ![Event Photo 3](https://i.postimg.cc/Zn1LLG0r/Career-Summit-by-Programming-Hero-at-Cumilla-Polytechnic-Institute-7.jpg)
 ![Event Photo 4](https://i.postimg.cc/BbdCCrtP/Career-Summit-by-Programming-Hero-at-Cumilla-Polytechnic-Institute-3.jpg)
 ![Event Photo 5](https://i.postimg.cc/D0tcc9mr/Career-Summit-by-Programming-Hero-at-Cumilla-Polytechnic-Institute-8.jpg)
@@ -46,3 +45,5 @@ author: CPIHTC
 
 
 
+
+![Career Summit 2025](/post_images/Career Summit by Programming Hero-2025/2025-October-21--Career-Summit-by-Programming-Hero-at-Cumilla-Polytechnic-Institute.jpg)
