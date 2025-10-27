@@ -28,7 +28,9 @@ location: Cumilla Polytechnic Institute, Bangladesh
 
 এর পাশাপাশি কুমিল্লা পলিটেকনিক ইন্সটিটিউট হাই টেক ক্লাবের কমিটি থেকে শুরু করে কয়েকজন সদস্যবৃন্দ এবং তরুণ সেচ্ছাসেবকগণ সম্পূর্ণ অনুষ্টানটিকে ব্যবস্থাপনা, সাজসজ্জা এবং উপস্থাপনা থেকে শুরু করে সফলতার সাথে উপসংহার পর্যন্ত নিয়ে যান। ম্যানেজমেন্ট অথোরিটিকে প্রবাসীসহ কুপই প্রাক্তন শিক্ষার্থীরা শুভকামনা ও ধন্যবাদ জানিয়েছে।
 
-![Career Summit 2025](post_images\Others\2025-October-21--Career-Summit-by-Programming-Hero-at-Cumilla-Polytechnic-Institute.jpg)
+
+![Career Summit 2025](/post_images/Others/2025-October-21--Career-Summit-by-Programming-Hero-at-Cumilla-Polytechnic-Institute.jpg)
+
 
 
 ![Event Photo 1](https://i.postimg.cc/yxwTTMWc/Career-Summit-by-Programming-Hero-at-Cumilla-Polytechnic-Institute-6.jpg)
